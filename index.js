@@ -4,6 +4,6 @@ function getFirstSelector(selector) {
   }
 
   deepestChild () {
-    
+    return
   }
 }
